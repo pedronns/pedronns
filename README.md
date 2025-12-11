@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently working as a Level 2 Technical Support<br>👀 Looking for an opportunity to grow as a Full-stack Developer<br>📖 Self-taught C2 Level English speaker<br>👩‍🏫 Former English teacher<br>🎓 Graduate in Systems Analysis and Development
+👨‍💻 Currently working as a Level 2 Technical Support<br>👀 Looking for an opportunity to grow as a Full-stack Developer<br>📖 Self-taught C2 Level English speaker<br>👩‍🏫 Former English teacher
 
 
 ## 🌐 Socials:
