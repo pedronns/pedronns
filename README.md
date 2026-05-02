@@ -1,10 +1,10 @@
-# About Me:
-- Level 2 Technical Support Analyst transitioning into Full-stack Development  
-- Building full-stack applications with React, Next.js, Node.js, and TypeScript  
-- Self-taught developer passionate about clean UI, performance, and problem-solving  
-- C2 English proficiency | Former English teacher
+# Sobre Mim:
+- Analista de Suporte Técnico Nível 2 em transição para Desenvolvimento Full-stack  
+- Desenvolvendo aplicações full-stack com React, Next.js, Node.js e TypeScript  
+- Desenvolvedor autodidata apaixonado por interfaces bem construídas, performance e resolução de problemas  
+- Inglês nível C2 | Ex-professor de inglês  
 
-## Socials:
+## Redes:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedronunes242/" target="_blank">
@@ -16,7 +16,7 @@
 </div>
 
 
-# Tech Stack:
+# Tecnologias:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-## Current Focus:
-- Building portfolio-quality full-stack projects
-- Improving backend architecture and database design
-- Searching for junior/international developer opportunities
+## Foco Atual:
+- Desenvolvendo projetos full-stack de nível portfólio  
+- Aprimorando conhecimentos em arquitetura backend e modelagem de banco de dados  
+- Buscando oportunidades júnior e internacionais na área de desenvolvimento  
